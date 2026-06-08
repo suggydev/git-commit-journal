@@ -1,0 +1,6 @@
+click
+python-dotenv
+gitpython
+openai
+anthropic
+rich
