@@ -55,4 +55,4 @@ git-commit-journal --ai-provider ollama --model llama3.1
 
 ## Contributing
 
-This project thrives on your weird ideas. Found a bug? The AI is probably hungover. Open an issue.
+This project thrives on your weird ideas. Found a bug? Open an issue.
